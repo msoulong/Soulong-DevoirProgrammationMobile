@@ -1,0 +1,7 @@
+{
+  "name": "surveyForm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
